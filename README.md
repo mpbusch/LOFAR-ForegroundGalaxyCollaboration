@@ -11,19 +11,20 @@ We are currently studying M63 and M108, two galaxies that possess very different
 
 Current Collaboration Members: 
 
+Annalisa Bonafede (U-Hamburg) 
+
 Marcus Bruggen (U-Hamburg) 
 
 Michael Busch (ASU; JHU Fall 2016) 
 
-Trevor Van Engelhoven (ASU) 
+David Rafferty (U-Hamburg) 
 
 Frederica Savini (U-Hamburg) 
 
+Trevor Van Engelhoven (ASU) 
+
 Amanda Wilber (U-Hamburg) 
 
-David Rafferty (U-Hamburg) 
-
-Annalisa Bonafede (U-Hamburg) 
 
 Contact: 
 Michael Busch; mpbusch@asu.edu
