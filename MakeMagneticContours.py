@@ -29,6 +29,7 @@ infile = 'M63_spix_rmscut.fits'
 outfile = 'M63_magneticfield.fits'
 
 
+
 if __name__ == "__main__":
   # The short way
   #image_concat = [fits.getdata(image) for image in IMAGE_LIST]
