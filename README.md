@@ -19,7 +19,7 @@ Michael Busch (ASU; JHU Fall 2016)
 
 David Rafferty (U-Hamburg) 
 
-Frederica Savini (U-Hamburg) 
+Federica Savini (U-Hamburg) 
 
 Trevor Van Engelhoven (ASU) 
 
