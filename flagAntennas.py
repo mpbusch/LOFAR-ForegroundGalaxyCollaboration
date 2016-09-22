@@ -2,7 +2,7 @@
 # Feel free to change the 'antenna' parameter in flagdata to flag whichever antennas are giving you trouble.
 # Author: Michael Busch
 
-from glob import glob
+from glob
 
 vislist = glob.glob("*.ms")
 
